@@ -2,7 +2,7 @@
 
 Spring Boot app for the SQL challenge (Question 1).
 
-Replace application.properties with your real details if needed.
+
 
 Build:
   mvn clean package
